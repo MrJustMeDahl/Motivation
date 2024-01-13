@@ -1,4 +1,4 @@
-ame: React Build and Deploy to Docker Hub
+name: React Build and Deploy to Docker Hub
 
 on:
   push:
